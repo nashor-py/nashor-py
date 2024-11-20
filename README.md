@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Roshan Tripathy! 👋
 
-<!--
-**nashor-py/nashor-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🎓 **Student at Loyola School and Aakash Institute**
+- 💻 **Programming Languages**: Python and a bit of Java
+- 🎯 **Interests**: Chess, Piano, Maths, and Physics
 
-Here are some ideas to get you started:
+### Contact Me
+- 📧 **Email**: roshantripathy2020@outlook.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find Me Online
+- ♟️ **Lichess**: @roshan_2010
+- 📚 **Khan Academy**: @tripathyroshan
+
+### Favorite Books
+- **A Brief History of Time** by Stephen Hawking
+- **Long Walk to Freedom** by Nelson Mandela
+- **The Lord of the Rings** by J.R.R. Tolkien
