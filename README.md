@@ -4,6 +4,7 @@
 - 🎓 **Student at Loyola School and Aakash Institute**
 - 💻 **Programming Languages**: Python and a bit of Java
 - 🎯 **Interests**: Chess, Piano, Maths, and Physics
+-**Age**: 13 years
 
 ### Contact Me
 - 📧 **Email**: roshantripathy2020@outlook.com
@@ -13,6 +14,6 @@
 - 📚 **Khan Academy**: @tripathyroshan
 
 ### Favorite Books
-- **A Brief History of Time** by Stephen Hawking
+- **Brief History of Time and others** by Stephen Hawking
 - **Long Walk to Freedom** by Nelson Mandela
 - **The Lord of the Rings** by J.R.R. Tolkien
