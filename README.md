@@ -17,3 +17,4 @@
 - **Brief History of Time and others** by Stephen Hawking
 - **Long Walk to Freedom** by Nelson Mandela
 - **The Lord of the Rings** by J.R.R. Tolkien
+- **Jonathon Livingston Seagull** by Richard Bach
